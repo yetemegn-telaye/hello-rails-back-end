@@ -131,7 +131,7 @@ To run the project, execute the following command:
 
 - GitHub: [@githubhandle](https://github.com/yetemegn-telaye)
 - Twitter: [@twitterhandle](https://twitter.com/Yetemegn19)
-- LinkedIn: [LinkedIn](lemma19yet@gmail.com)
+- LinkedIn: [@LinkedIn](lemma19yet@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
