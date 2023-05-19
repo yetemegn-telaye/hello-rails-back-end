@@ -107,7 +107,6 @@ Install this project with:
 ```sh
   cd hello-rails-back-end
   gem install
-  npm install
 ```
 
 ### Usage
